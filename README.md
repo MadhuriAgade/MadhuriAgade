@@ -53,8 +53,7 @@ Welcome to my GitHub profile! I'm currently pursuing my **Master of Computer App
 
 ## Projects
 
--  **Project 1** — HealthFit
--  
+-  **Project 1** — HealthFit  
 More projects coming soon! 
 
 <!--## GitHub Stats
